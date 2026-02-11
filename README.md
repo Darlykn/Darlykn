@@ -1,10 +1,10 @@
 ## 💫 Hi, I'm @Darlykn
 
-I'm interested in understanding how web applications and automation work — from architecture to implementation details.  
-I actively explore new tools and technologies, work with databases and user interfaces, and dive deeper into process logic.
+I'm interested in how web applications and automation work from architecture to implementation details.
+I am actively exploring new tools and technologies, working with databases and user interfaces and delving into the logic of processes.
 
-In my free time, I enjoy being creative — I draw.  
-My interest in visual art helps me pay closer attention to interfaces and user experience.
+In my free time I like to be creative and draw.
+My interest in art helps me pay more attention to interfaces and user experience.
 
 ✨ *Always open to new knowledge, ideas, and exciting projects.*
 
